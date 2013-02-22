@@ -1,0 +1,63 @@
+#
+#    Copyright (C) 2013 Intel Corporation.  All rights reserved.
+#
+#    Licensed under the Apache License, Version 2.0 (the "License"); you may
+#    not use this file except in compliance with the License. You may obtain
+#    a copy of the License at
+#
+#         http://www.apache.org/licenses/LICENSE-2.0
+#
+#    Unless required by applicable law or agreed to in writing, software
+#    distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+#    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+#    License for the specific language governing permissions and limitations
+#    under the License.
+
+#: dashboards/syspanel/hostcapability/panel.py:27
+msgid "HostCapability"
+msgstr "主机信息"
+
+#: dashboards/syspanel/hostcapability/tables.py:31
+msgid "Host Capability"
+msgstr "主机信息"
+
+#: dashboards/syspanel/hostcapability/templates/hostcapability/index.html:3
+msgid "Host Capability List"
+msgstr "主机信息列表"
+
+#: dashboards/syspanel/hostcapability/templates/hostcapability/_create.html:8
+#: dashboards/syspanel/hostcapability/templates/hostcapability/create.html:3
+#: dashboards/syspanel/hostcapability/tables.py:31
+msgid "Create Host Capability"
+msgstr "创建主机信息"
+
+#: dashboards/syspanel/hostcapability/templates/hostcapability/_create.html:18
+msgid "From here you can create a new host and it's capabilities"
+msgstr "点此创建主机信息"
+
+#: dashboards/syspanel/hostcapability/templates/hostcapability/_edit.html:8
+#: dashboards/syspanel/hostcapability/templates/hostcapability/edit.html:3
+#: dashboards/syspanel/hostcapability/tables.py:47
+msgid "Edit Host Capability"
+msgstr "编辑主机信息"
+
+#: dashboards/syspanel/hostcapability/templates/hostcapability/_edit.html:18
+#: dashboards/syspanel/hostcapability/templates/hostcapability/create.html:3
+msgid "From here you can alter the capabilities of the host."
+msgstr "点此更改主机信息"
+
+#: dashboards/syspanel/hostcapability/views.py:35
+msgid "Unable to retrieve host capability list."
+msgstr "无法获取主机信息列表"
+
+#: dashboards/syspanel/hostcapability/views.py:71
+msgid "Unable to retrieve hostcapability data."
+msgstr "无法获取主机信息数据"
+
+#: dashboards/syspanel/hostcapability/forms.py:57
+msgid "Unable to create host capability."
+msgstr "无法创建主机信息"
+
+#: dashboards/syspanel/hostcapability/forms.py:57
+msgid "Unable to update host capability."
+msgstr "无法更新主机信息"
